@@ -1,0 +1,123 @@
+﻿生成启动时间为 2017/9/8 15:59:57。
+     1>项目“C:\Users\Administrator\Desktop\3dSoftRender\3dSoftRender\3dSoftRender.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Class\base.cpp Class\t3dlib1.cpp Class\t3dlib2.cpp Class\t3dlib3.cpp
+         t3dlib3.cpp
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib3.cpp(28): fatal error C1083: 无法打开包括文件:“dmusici.h”: No such file or directory
+         t3dlib2.cpp
+         c:\program files (x86)\windows kits\8.0\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib2.cpp(71): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vc\include\string.h(110) : 参见“strcpy”的声明
+         t3dlib1.cpp
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(210): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(211): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(364): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(365): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(366): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(367): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(404): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(405): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(406): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(407): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(445): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(446): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(447): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(448): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(485): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(486): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(487): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(488): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(763): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(766): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(770): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(773): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(837): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(838): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(894): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(895): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(951): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(952): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(954): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(955): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1702): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1707): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1713): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1719): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1727): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1734): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1743): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1750): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1759): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1765): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1774): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1780): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1823): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1830): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1839): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1846): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1855): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1861): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1870): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(1876): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(2253): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(2263): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vc\include\stdio.h(237) : 参见“fscanf”的声明
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(2282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(2526): error C2664: “TextOutW”: 不能将参数 4 从“char *”转换为“LPCWSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(2555): error C2664: “TextOutW”: 不能将参数 4 从“char *”转换为“LPCWSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(4079): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(4129): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(4245): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(4368): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(4492): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5129): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5130): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5131): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5216): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5225): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5233): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5234): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5235): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5236): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5242): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5243): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5249): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5250): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5586): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5587): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5599): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5600): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5643): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5652): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5660): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5661): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5662): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5663): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5669): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5670): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5676): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(5677): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6013): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6014): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6026): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6027): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6156): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6167): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6196): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6207): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6239): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6242): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6249): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\t3dlib1.cpp(6250): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+         base.cpp
+     1>c:\users\administrator\desktop\3dsoftrender\3dsoftrender\class\base.cpp(22): fatal error C1083: 无法打开包括文件:“dmusici.h”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“C:\Users\Administrator\Desktop\3dSoftRender\3dSoftRender\3dSoftRender.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.09
