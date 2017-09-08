@@ -98,6 +98,7 @@ int WINAPI WinMain(HINSTANCE hinstance, HINSTANCE hprevinstance, LPSTR lpcmdline
 	if(!RegisterClass(&winclass))
 		return 0;
 
+
 	if(!(hwnd = CreateWindow(WINDOW_CLASS_NAME,
 			WINDOW_TITLE,
 			(WINDOWED_APP ? (WS_OVERLAPPED | WS_SYSMENU | WS_CAPTION) :
